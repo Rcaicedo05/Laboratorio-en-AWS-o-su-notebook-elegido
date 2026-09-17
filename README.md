@@ -3,10 +3,15 @@
 ## Autor
 Richard Santiago Caicedo Toro
 
-## Resumen del proyecto
-Este repositorio contiene un laboratorio de análisis y preparación de datos realizado en un entorno de notebook y con enfoque en trabajo con AWS. El proyecto se desarrolló a partir de un conjunto de datos en formato CSV y se organizó en varias etapas para dejar un flujo reproducible y entendible.
+## Descripción general
+Este repositorio presenta un laboratorio de análisis y preparación de datos desarrollado en un entorno de notebook con enfoque en herramientas de AWS y ciencia de datos. El proyecto se basa en un conjunto de datos en formato CSV y se organiza en etapas para facilitar su comprensión y reproducción.
 
-Se trabajó en la importación y creación del dataset, la exploración inicial de los datos, y la codificación de variables categóricas para preparar la información antes de aplicarla en análisis o modelos. También se estructuró el proyecto en notebooks para separar cada proceso y facilitar su seguimiento.
+## Resumen del trabajo realizado
+- Importación y creación del dataset inicial.
+- Exploración de los datos para identificar estructura, patrones y variables relevantes.
+- Análisis preliminar de la información contenida en el archivo CSV.
+- Codificación de variables categóricas para preparar los datos para análisis o modelado.
+- Organización del flujo de trabajo en notebooks para separar cada etapa del proceso.
 
 ## Archivos principales
 - `data/dataset.csv`
@@ -15,4 +20,7 @@ Se trabajó en la importación y creación del dataset, la exploración inicial 
 - `notebooks/lab_3_3_codificacion_categorica.ipynb`
 
 ## Objetivo
-El objetivo principal fue aprender y aplicar técnicas básicas de limpieza, transformación y preparación de datos para generar información útil a partir de un dataset real.
+El objetivo principal fue aprender y aplicar técnicas básicas de limpieza, transformación y preparación de datos para convertir un conjunto de información en datos útiles para análisis y modelado.
+
+## Estado del proyecto
+Proyecto finalizado y cargado en GitHub para su revisión y presentación.
